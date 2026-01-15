@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212971059698",
+    "project_id": "ipca-loja-social-27180",
+    "storage_bucket": "ipca-loja-social-27180.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212971059698:android:75e2f4a0b8bbf280e5136b",
+        "android_client_info": {
+          "package_name": "com.ipca.lojasocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJVCjRwhn33f5ExgPUZ_lwRdNHjdlKHCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

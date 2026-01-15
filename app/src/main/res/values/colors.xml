@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ipca_green">#00853E</color>
+    <color name="ipca_green_dark">#006B32</color>
+    <color name="ipca_green_light">#4CAF50</color>
+</resources>
