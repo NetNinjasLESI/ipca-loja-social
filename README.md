@@ -1,12 +1,12 @@
 Atualizações/Melhorias:
-Refatoração do ViewModel seguindo princípios Clean Architecture com separação adequada entre camadas de apresentação, domínio e dados conforme orientação do professor
-Implementação de sistema de monitorização de candidaturas com otimização de filtros na camada de domínio
-Funcionalidade de cancelamento de entregas por beneficiários
-Atualização e melhorias no histórico de entregas
-Alteração do modelo de campanhas de valores monetários para sistema de kits alimentares
-Implementação de sistema de código de barras para gestão de produtos e entregas
-Funcionalidade para beneficiários realizarem pedidos diretamente na aplicação
-Correções de bugs e melhorias gerais na experiência do utilizador
+- Refatoração do ViewModel seguindo princípios Clean Architecture com separação adequada entre camadas de apresentação, domínio e dados conforme orientação do professor
+- Implementação de sistema de monitorização de candidaturas com otimização de filtros na camada de domínio
+- Funcionalidade de cancelamento de entregas por beneficiários
+- Atualização e melhorias no histórico de entregas
+- Alteração do modelo de campanhas de valores monetários para sistema de kits alimentares
+- Implementação de sistema de código de barras para gestão de produtos e entregas
+- Funcionalidade para beneficiários realizarem pedidos diretamente na aplicação
+- Correções de bugs e melhorias gerais na experiência do utilizador
 
 # IPCA Loja Social - Aplicação Android
 
